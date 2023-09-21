@@ -46,7 +46,8 @@ This analytical report is provided under the [LICENSE](LICENSE) file in the repo
 
 If you have any questions or need further clarification regarding the report or its findings, please feel free to contact the author:
 
-- [Your Name]
-- Email: [Your Email Address]
+- Alli Cosmas Muange
+- Email: alimuange@gmail.com
+- +254746126579
 
 We hope you find this report informative and valuable for your analytical purposes.
